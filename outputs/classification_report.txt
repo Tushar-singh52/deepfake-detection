@@ -1,0 +1,9 @@
+Classification Report
+
+       class  precision     recall   f1-score    support
+        FAKE     0.9717     0.9572     0.9644      10000
+        REAL     0.9578     0.9721     0.9649      10000
+
+    accuracy                           0.9647      20000
+   macro avg     0.9648     0.9647     0.9646      20000
+weighted avg     0.9648     0.9647     0.9646      20000
